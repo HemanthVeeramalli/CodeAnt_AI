@@ -5,6 +5,28 @@ This repository contains solution for the **Frontend Developer Intern Hiring Ass
 
 ---
 
+
+react-repositories-dashboard/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── RepositoryList.js
+│   │   ├── RefreshButton.js
+│   ├── styles/
+│   │   ├── App.css
+│   │   ├── components/
+│   ├── App.js
+│   ├── index.js
+├── .gitignore
+├── package.json
+├── README.md
+├── LICENSE
+└── yarn.lock
+
+
+
 ## Table of Contents  
 - [Overview](#overview)  
 - [Installation](#installation)  
