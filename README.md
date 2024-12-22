@@ -5,7 +5,7 @@ This repository contains solution for the **Frontend Developer Intern Hiring Ass
 
 ---
 
-
+```
 react-repositories-dashboard/
 ├── public/
 │   ├── index.html
@@ -24,7 +24,7 @@ react-repositories-dashboard/
 ├── README.md
 ├── LICENSE
 └── yarn.lock
-
+```
 
 
 ## Table of Contents  
